@@ -1,0 +1,12 @@
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\bin\Debug\Simon 2.exe.config
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\bin\Debug\Simon 2.exe
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\bin\Debug\Simon 2.pdb
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon 2.csprojResolveAssemblyReference.cache
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon_2.Simon2.resources
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon_2.Properties.Resources.resources
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon 2.csproj.GenerateResource.Cache
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon 2.exe
+C:\Users\saric_000\Desktop\Skolfiler\13. ExamProj\Simon 2\Simon 2\obj\Debug\Simon 2.pdb
+C:\Users\saric_000\Desktop\Github\Simon\Simon 2\Simon 2\bin\Debug\Simon 2.exe.config
+C:\Users\saric_000\Desktop\Github\Simon\Simon 2\Simon 2\obj\Debug\Simon 2.exe
+C:\Users\saric_000\Desktop\Github\Simon\Simon 2\Simon 2\obj\Debug\Simon 2.pdb
